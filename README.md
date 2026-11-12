@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **diogo1922/diogo1922** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi, I'm Diogo 👋
+## Hi, I'm Diogo 👋
 
 Computer Science graduate (First-Class Honours) based in the UK, looking for an entry-level **backend or full-stack developer** role.
 

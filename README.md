@@ -26,6 +26,7 @@ I build web applications end to end: REST APIs and data layers on the backend, a
 - **Frontend:** React, TypeScript, Tailwind
 - **Database:** PostgreSQL
 - **Tools:** Git, GitHub Actions, Docker
+- **Testing:** JUnit, Mockito
 
 ##  Featured Project
 

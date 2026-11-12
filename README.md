@@ -14,3 +14,27 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi, I'm Diogo 👋
+
+Computer Science graduate (First-Class Honours) based in the UK, looking for an entry-level **backend or full-stack developer** role.
+
+I build web applications end to end: REST APIs and data layers on the backend, and responsive interfaces on the frontend.
+
+## 🛠️ Tech Stack
+
+- **Backend:** Java, Spring Boot, REST APIs
+- **Frontend:** React, TypeScript, Tailwind
+- **Database:** PostgreSQL
+- **Tools:** Git, GitHub Actions, Docker
+
+## 🚀 Featured Project
+
+**[BOOKSHOW](https://github.com/diogo1922/BookReview)** – a full-stack book discovery and review app built with Spring Boot, React/TypeScript and PostgreSQL. 
+
+## 🌍 Languages & Location
+
+Based in the UK, with strong ties to Portugal. Fluent in English and European Portuguese, and open to opportunities in both countries.
+
+## 📫 Get in Touch
+
+- LinkedIn: [Diogo Sousa](www.linkedin.com/in/diogo-sousa-ds)

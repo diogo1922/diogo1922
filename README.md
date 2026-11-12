@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hi, I'm Diogo 👋
+## Hi,
 
 Computer Science graduate (First-Class Honours) based in the UK, looking for an entry-level **backend or full-stack developer** role.
 

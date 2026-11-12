@@ -37,4 +37,4 @@ Based in the UK, with strong ties to Portugal. Fluent in English and European Po
 
 ## 📫 Get in Touch
 
-- LinkedIn: [Diogo Sousa](www.linkedin.com/in/diogo-sousa-ds)
+- LinkedIn: www.linkedin.com/in/diogo-sousa-ds
